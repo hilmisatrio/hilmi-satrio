@@ -461,7 +461,7 @@ export default {
       window.location.href = "https://github.com/hilmisatrio";
     },
     linkedin() {
-      alert("belum tersedia 🙏");
+      window.location.href = "https://www.linkedin.com/in/muhammad-hilmi-satrio-96a381247";
     },
     wa() {
       alert("belum tersedia 🙏");
